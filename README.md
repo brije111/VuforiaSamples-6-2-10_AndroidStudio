@@ -10,3 +10,4 @@ Vuforia.setInitParameters(mActivity, mVuforiaFlags, "your_license_key");
 6. Click Build ->Clean Project
 7. Click Build ->Rebuild Project
 8. Click Run -> Run 
+9. Follow this link to test your application https://goo.gl/KezKDc
