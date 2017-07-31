@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/src/main/res/anim/bottom_up.xml"
+    }
+]

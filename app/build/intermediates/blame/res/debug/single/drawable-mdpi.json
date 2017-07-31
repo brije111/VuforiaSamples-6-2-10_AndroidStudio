@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
+        "source": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/home/overtatech-4/Android/vuforia_sdk/samples/VuforiaSamples-6-2-10/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]
