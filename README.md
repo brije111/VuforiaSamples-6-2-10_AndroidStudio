@@ -5,7 +5,7 @@
 4. Paste the key in "SampleApplicationSession.java" file which is located in your project under
 app/src/main/java/com.qualcomm.vuforia.samples/SampleApplication/SampleApplicationSession in line 347
 paste it between the "" as the third parametar: 
-Vuforia.setInitParameters(mActivity, mVuforiaFlags, "");
+Vuforia.setInitParameters(mActivity, mVuforiaFlags, "your_licemse_key");
 5. Open the project in Android Studio
 6. Click Build ->Clean Project
 7. Click Build ->Rebuild Project
