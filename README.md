@@ -6,7 +6,7 @@
 app/src/main/java/com.qualcomm.vuforia.samples/SampleApplication/SampleApplicationSession in line 347
 paste it between the "" as the third parametar: 
 Vuforia.setInitParameters(mActivity, mVuforiaFlags, "your_license_key");
-5. Open the project in Android Studio
+5. Import the project in Android Studio
 6. Click Build ->Clean Project
 7. Click Build ->Rebuild Project
 8. Click Run -> Run 
