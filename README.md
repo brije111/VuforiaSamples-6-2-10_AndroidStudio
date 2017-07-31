@@ -1,8 +1,8 @@
 # VuforiaSamples-6-2-10_AndroidStudio
 1. Download the latest Vuforia SDK for android from https://developer.vuforia.com/downloads/sdk. Extract it in your projects directory.
 2. Download this project and extract it in "samples" directory of vuforia sdk extracted in point 1.
-3. Obtain your Vuforia license key at https://developer.vuforia.com/targetmanager/licenseManager/licenseListing.
-4. Import the project in Android Studio
+3. Import the project in Android Studio.
+4. Obtain your Vuforia license key at https://developer.vuforia.com/targetmanager/licenseManager/licenseListing.
 5. Paste the key in "SampleApplicationSession.java" file which is located in your project under
 app/src/main/java/com.qualcomm.vuforia.samples/SampleApplication/SampleApplicationSession in line 347
 paste it between the "" as the third parametar: 
